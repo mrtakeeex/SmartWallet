@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmartWallet</string>
+    <string name="currentBudget_text">Current budget</string>
+    <string name="incomesButton_text">Incomes</string>
+    <string name="historyButton_text">History</string>
+    <string name="spendingsButton_text">Spendings</string>
+    <string name="history_activity_name">History</string>
+    <string name="incomes_activity_name">Incomes</string>
+    <string name="spendings_activity_name">Spendings</string>
+    <string name="add">Add</string>
+    <string name="error_message_emptyfield">One of your fields is empty</string>
+    <string name="delete_all">Delete All</string>
+    <string name="message_added">Added</string>
+    <string name="message_saved">Saved</string>
+    <string name="message_deleted">Deleted</string>
+</resources>
